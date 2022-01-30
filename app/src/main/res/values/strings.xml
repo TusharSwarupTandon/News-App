@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">News App</string>
+    <string name="category_business">business</string>
+    <string name="category_entertainment">entertainment</string>
+    <string name="category_general">general</string>
+    <string name="category_health">health</string>
+    <string name="category_science">science</string>
+    <string name="category_sports">sports</string>
+    <string name="category_technology">technology</string>
     <string name="api_key">6e11aac2b34043a3b9a81be608b2a078</string>
 </resources>
